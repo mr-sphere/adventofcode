@@ -1,3 +1,5 @@
+# forgot to copy the file to save part 1 :skull:
+
 file = open("input.txt", "r")
 
 total = 0
